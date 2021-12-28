@@ -1,1 +1,1 @@
-# learning-apache-kafka
+# Learning Apache Kafka
